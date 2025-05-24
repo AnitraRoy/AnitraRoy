@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anitra Roy!
 - 🌱 I’m currently an undergraduate student at the University of Toronto
-- 🖥️ I'm majoring in Industrial Engineering with a specialization in Operations Research
+- 🖥️ I'm majoring in Industrial Engineering with a specialization in Operations Research and minors in Artificial Intelligence and Egnineering Business
 
 <!--
 **AnitraRoy/AnitraRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
