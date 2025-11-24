@@ -3,12 +3,13 @@
 # 💫 About Me:
 👋 Hi, I’m Anitra Roy!  
 🌱 I’m currently an undergraduate student at the University of Toronto  
-🖥️ I'm majoring in Industrial Engineering with a specialization in Operations Research and minors in AI and Engineering Business  
+🖥️ I'm majoring in Industrial Engineering with minors in AI and Engineering Business  
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/anitraroy)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anitraroy.github.io)
 
 ---
 
