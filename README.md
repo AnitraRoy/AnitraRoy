@@ -1,9 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Anitra Roy!</h1>
-
-# 💫 About Me:
-👋 Hi, I’m Anitra Roy!  
-🌱 I’m currently an undergraduate student at the University of Toronto  
-🖥️ I'm majoring in Industrial Engineering with minors in AI and Engineering Business  
+## About Me:
+Hi, I’m Anitra Roy!  
+I’m currently an undergraduate student at the University of Toronto  
+I'm majoring in Industrial Engineering with minors in AI and Engineering Business  
 
 ---
 
@@ -47,8 +45,6 @@
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitraRoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitraRoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1)-->
 
----
-
-[![](https://visitcount.itsvg.in/api?id=AnitraRoy&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=anitraroy&style=flat-square&abbreviated=true)
