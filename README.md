@@ -1,4 +1,4 @@
-## About Me:
+## 👤 About Me:
 Hi, I’m Anitra Roy!  
 I’m currently an undergraduate student at the University of Toronto  
 I'm majoring in Industrial Engineering with minors in AI and Engineering Business  
